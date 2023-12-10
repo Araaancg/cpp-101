@@ -1,0 +1,12 @@
+﻿// test-1-cmake.cpp: define el punto de entrada de la aplicación.
+//
+
+#include "test-1-cmake.h"
+
+using namespace std;
+
+int main()
+{
+	cout << "Hello CMake." << endl;
+	return 0;
+}

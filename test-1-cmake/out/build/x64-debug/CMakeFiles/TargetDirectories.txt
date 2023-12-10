@@ -1,0 +1,5 @@
+C:/Users/Arancha/Desktop/cpp-exercises/test-1-cmake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arancha/Desktop/cpp-exercises/test-1-cmake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Arancha/Desktop/cpp-exercises/test-1-cmake/out/build/x64-debug/test-1-cmake/CMakeFiles/test-1-cmake.dir
+C:/Users/Arancha/Desktop/cpp-exercises/test-1-cmake/out/build/x64-debug/test-1-cmake/CMakeFiles/edit_cache.dir
+C:/Users/Arancha/Desktop/cpp-exercises/test-1-cmake/out/build/x64-debug/test-1-cmake/CMakeFiles/rebuild_cache.dir
