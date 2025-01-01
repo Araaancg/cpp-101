@@ -8,8 +8,12 @@ The **C++ Exercises** repository is designed to help me as a beginner get starte
 ---
 
 #### **Languages and Technologies**
-- **C++** – The main programming language used in these exercises.
-- **Standard Library** – Includes `<iostream>` for input and output operations.
+- **C++** – The main programming language used for these exercises.
+- **Libraries**:
+  - **`<numeric>`** – Provides functions for numeric operations, including `std::accumulate` for summing values in containers.
+  - **`<iostream>`** – Handles input and output streams, enabling interactions with the console (e.g., `std::cin`, `std::cout`).
+  - **`<string>`** – Provides functions and classes for manipulating strings, such as `std::string`.
+  - **`<cctype>`** – Provides functions for character classification and manipulation, like `std::isalpha`, `std::tolower`, and `std::toupper`.
 
 ---
 
